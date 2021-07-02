@@ -2,5 +2,5 @@
 ## By Dr. Shahzad Rahman
 
 ## Instructions:
-1. Click on the pdf/xls file to open it.
+1. Click on the pdf/xls/ppt/* file to open it.
 2. Then, press download button at top right to download it. 
